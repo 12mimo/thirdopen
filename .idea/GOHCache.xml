@@ -1,6 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="GoORMHelperCache">
-    <option name="lastTimeChecked" value="1737424069146" />
+    <option name="schemaMapping">
+      <map>
+        <entry key="Client">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/main.go" />
+              <option value="file://$PROJECT_DIR$/wecaht/wechat.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Config">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/wecaht/models/config.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Handler">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/wecaht/extend/extend.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1737425175340" />
+              <option name="schema">
+                <list>
+                  <option value="Client" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/wecaht/extend/extend.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1737424579998" />
+              <option name="schema">
+                <list>
+                  <option value="Handler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/wecaht/merchant/merchant.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1737423559608" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/wecaht/models/config.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1737422791052" />
+              <option name="schema">
+                <list>
+                  <option value="Config" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/wecaht/pay/pay.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1737422185338" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/wecaht/secure/secure.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1737422247427" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/wecaht/service/service.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1737422215232" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/wecaht/wechat.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1737424841739" />
+              <option name="schema">
+                <list>
+                  <option value="Client" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="client" value="Client" />
+        <entry key="config" value="Config" />
+        <entry key="handler" value="Handler" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1737425162100" />
   </component>
 </project>
